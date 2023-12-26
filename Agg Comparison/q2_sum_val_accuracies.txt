@@ -1,0 +1,38 @@
+Epoch 1: 0.328
+Epoch 2: 0.396
+Epoch 3: 0.494
+Epoch 4: 0.528
+Epoch 5: 0.574
+Epoch 6: 0.614
+Epoch 7: 0.642
+Epoch 8: 0.672
+Epoch 9: 0.686
+Epoch 10: 0.712
+Epoch 11: 0.718
+Epoch 12: 0.736
+Epoch 13: 0.73
+Epoch 14: 0.726
+Epoch 15: 0.754
+Epoch 16: 0.75
+Epoch 17: 0.76
+Epoch 18: 0.746
+Epoch 19: 0.776
+Epoch 20: 0.778
+Epoch 21: 0.756
+Epoch 22: 0.764
+Epoch 23: 0.782
+Epoch 24: 0.782
+Epoch 25: 0.788
+Epoch 26: 0.776
+Epoch 27: 0.788
+Epoch 28: 0.788
+Epoch 29: 0.808
+Epoch 30: 0.792
+Epoch 31: 0.8
+Epoch 32: 0.792
+Epoch 33: 0.792
+Epoch 34: 0.8
+
+
+
+
